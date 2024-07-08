@@ -1,0 +1,31 @@
+body{
+    background-image: url(https://media.istockphoto.com/id/936417012/vector/cricket-stadium-vector-background.jpg?s=612x612&w=0&k=20&c=ktPUWBDjsTAYT0cjroYMkgJG3AQPLPuSOO1Vd8Urgyg=)
+}
+table,td{
+    height: 200px;
+    width: 200px;
+}
+div{
+    display:flex;
+    justify-content: space-evenly;
+    background-color: right(red,green,blue,0.3);
+}
+img{
+    height: 120px;
+    width: 150px;
+    margin-top: 10px;
+    margin-left: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 50px;
+    border-top-right-radius: 50px;
+    box-shadow: 3px 3px 5px;
+    background: rgb(136, 39, 39);
+}
+top{
+    margin-left: 35%;
+}
+h1{
+    font-size:xx-large;
+    color:rgb(240, 15, 120);
+}
